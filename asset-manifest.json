@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/guvi.task-editproject/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/guvi.task-editproject/static/js/main.c0062015.chunk.js",
+    "main.js.map": "/guvi.task-editproject/static/js/main.c0062015.chunk.js.map",
+    "runtime-main.js": "/guvi.task-editproject/static/js/runtime-main.5e420855.js",
+    "runtime-main.js.map": "/guvi.task-editproject/static/js/runtime-main.5e420855.js.map",
+    "static/js/2.46c3824d.chunk.js": "/guvi.task-editproject/static/js/2.46c3824d.chunk.js",
+    "static/js/2.46c3824d.chunk.js.map": "/guvi.task-editproject/static/js/2.46c3824d.chunk.js.map",
+    "static/js/3.62248e1e.chunk.js": "/guvi.task-editproject/static/js/3.62248e1e.chunk.js",
+    "static/js/3.62248e1e.chunk.js.map": "/guvi.task-editproject/static/js/3.62248e1e.chunk.js.map",
+    "index.html": "/guvi.task-editproject/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/guvi.task-editproject/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.46c3824d.chunk.js.LICENSE.txt": "/guvi.task-editproject/static/js/2.46c3824d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/guvi.task-editproject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e420855.js",
+    "static/js/2.46c3824d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c0062015.chunk.js"
+  ]
+}
